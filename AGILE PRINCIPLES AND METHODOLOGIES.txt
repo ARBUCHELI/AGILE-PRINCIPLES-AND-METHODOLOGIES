@@ -1,0 +1,17 @@
+# AGILE PRINCIPLES AND METHODOLOGIES
+------------------------------------
+
+# Overview
+----------
+Agile projects use short work iterations and incremental development of products that focus on business priorities and customer value.
+
+In this course, you'll learn about Agile concepts that are fundamental when managing projects, including the four Agile values and twelve Agile principles. 
+
+This course also covers the five phases of the Agile project management model, and introduces you to the most common Agile methodologies and frameworks. 
+
+Finally, this course introduces key activities for managing Agile projects, including creating a product vision and project charter, and best contract and documentation types.
+
+This course is one of a series in the Skillsoft learning path that covers the objectives for the PMI Agile Certified Practitioner (PMI-ACP)® exam. PMI-ACP is a registered mark of the Project Management Institute, Inc.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
